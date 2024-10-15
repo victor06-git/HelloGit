@@ -1,2 +1,2 @@
 print("Hello Git!")
-print("Git from CMD")
+print("This is branch X")
